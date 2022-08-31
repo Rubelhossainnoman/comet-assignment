@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "image" : "images/portfolio/1.jpg",
+        "title" : "Neleman Cava",
+        "brand" : "Branding, Video",
+        "filter" : "branding video"
+    },
+    {
+        "id" : 2,
+        "image" : "images/portfolio/7.jpg",
+        "title" : "Sweet Lane",
+        "brand" : "Graphic, Printing",
+        "filter" : "graphic printing"
+    },
+    {
+        "id" : 3,
+        "image" : "images/portfolio/6.jpg",
+        "title" : "Jeff Burger",
+        "brand" : "Printing, Branding",
+        "filter" : "branding printing"
+    },
+    {
+        "id" : 4,
+        "image" : "images/portfolio/9.jpg",
+        "title" : "Juice Meds",
+        "brand" : "Video, Graphic",
+        "filter" : "video graphic"
+    },
+    {
+        "id" : 5,
+        "image" : "images/portfolio/11.jpg",
+        "title" : "Prisma",
+        "brand" : "Graphic, Branding",
+        "filter" : "branding graphic"
+    },
+    {
+        "id" : 6,
+        "image" : "images/portfolio/10.jpg",
+        "title" : "Delirio Tropical",
+        "brand" : "Printing, Graphic",
+        "filter" : "printing graphic"
+    },
+    {
+        "id" : 7,
+        "image" : "images/portfolio/8.jpg",
+        "title" : "Amendoas",
+        "brand" : "Printing, Branding",
+        "filter" : "printing branding"
+    },
+    {
+        "id" : 8,
+        "image" : "images/portfolio/3.jpg",
+        "title" : "Hnina",
+        "brand" : "Graphic, Video",
+        "filter" : "Graphic Video"
+    }
+]

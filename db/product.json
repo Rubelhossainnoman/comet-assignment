@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "image" : "images/shop/1.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Premium Notch Blazer",
+        "price" : "$79.99",
+        "category" : "dresses shorts beauty",
+        "key" : "women"
+    },
+    {
+        "id" : 2,
+        "image" : "images/shop/2.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Premium Suit Blazer",
+        "price" : "$119.99",
+        "category" : "bags jeans",
+        "key" : "men"
+    },
+    {
+        "id" : 3,
+        "image" : "images/shop/3.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Vintage Sweatshirt",
+        "price" : "$99.99",
+        "category" : "shorts dresses",
+        "key" : "men"
+    },
+    {
+        "id" : 4,
+        "image" : "images/shop/4.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Longline Jersey Jacket",
+        "price" : "$19.99",
+        "category" : "beauty blazers",
+        "key" : "men"
+    },
+    {
+        "id" : 5,
+        "image" : "images/shop/5.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Tailored Blazer",
+        "price" : "$119.99",
+        "category" : "jeans shorts",
+        "key" : "women"
+    },
+    {
+        "id" : 6,
+        "image" : "images/shop/6.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Overcoat In Camel",
+        "price" : "$99.99",
+        "category" : "bags blazers",
+        "key" : "men"
+    },
+    {
+        "id" : 7,
+        "image" : "images/shop/7.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Jacket with Fringe",
+        "price" : "$35.99",
+        "category" : "beauty dresses",
+        "key" : "women"
+    },
+    {
+        "id" : 8,
+        "image" : "images/shop/8.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Notch Blazer in Longline",
+        "price" : "$135.99",
+        "category" : "bags shorts",
+        "key" : "women"
+    },
+    {
+        "id" : 9,
+        "image" : "images/shop/9.jpg",
+        "cart" : "Add To Cart",
+        "title" : "Waistcoat In Navy",
+        "price" : "$299.99",
+        "category" : "jeans",
+        "key" : "men"
+    }
+]
